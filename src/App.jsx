@@ -120,8 +120,8 @@ function App() {
                         <div class="absolute top-0 left-0 z-[-2] h-screen w-screen bg-[#000000] bg-[radial-gradient(#ffffff33_1px,#00091d_1px)] bg-[size:20px_20px]"></div>
                     </div>
                     <div className="flex items-center justify-center h-full relative">
-                        <img src={hero_one} className='absolute md:h-[200px] md:w-[400px] h-[200px] w-[300px] md:top-0 md:right-0 top-5 right-5 object-cover rounded-2xl opacity-95 animate__animated animate__fadeInRight' alt="" />
-                        <img src={hero_two} className='absolute md:h-[200px] md:w-[400px] h-[200px] w-[300px] md:bottom-0 md:left-0 bottom-5 left-5 object-cover rounded-2xl opacity-70 animate__animated animate__fadeInLeft' alt="" />
+                        <img src={hero_one} className='absolute md:h-[180px] md:w-[400px] h-[200px] w-[300px] md:top-0 md:right-0 top-5 right-5 object-cover rounded-2xl opacity-95 animate__animated animate__fadeInRight' alt="" />
+                        <img src={hero_two} className='absolute md:h-[180px] md:w-[400px] h-[200px] w-[300px] md:bottom-0 md:left-0 bottom-5 left-5 object-cover rounded-2xl opacity-70 animate__animated animate__fadeInLeft' alt="" />
                         <div className="container mx-auto px-4 text-center animate__animated animate__fadeInUp">
                             <h1 className="text-4xl md:text-6xl font-bold mb-6">Avyukt Core <span className='bg-gradient-to-r from-blue-600 to-fuchsia-600 text-transparent bg-clip-text'>Technology</span></h1>
                             <p className="text-xl md:text-2xl mb-8">Custom software solutions to power your business growth</p>
